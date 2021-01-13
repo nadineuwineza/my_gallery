@@ -27,7 +27,7 @@ SECRET_KEY = 'rqwid!tql!mf^i2syxzxzq+0u#7h#_8)1ocw=@6#++b-$q6^g-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://nadydjango.herokuapp.com/']
 
 
 # Application definition
